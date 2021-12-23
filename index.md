@@ -1,3 +1,7 @@
+<div align="center">
+  Ezgi Korkmaz
+  </div>
+
 
 
 ## Abstract

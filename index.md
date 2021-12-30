@@ -1,5 +1,5 @@
 <head>
-  <meta name="keywords" content="adversarial, deep reinforcement learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning">
+  <meta name="keywords" content="adversarial, deep reinforcement learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment ">
 </head>
 
 <div align="center">
@@ -20,7 +20,7 @@ Reinforcement learning policies based on deep neural networks are vulnerable to 
 
 
 
-<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, policy, DeepRL, DRL, robust, adversarial policies </span>
+<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, policy, DeepRL, DRL, robust, adversarial policies, explainability, interpretability, AI alignment </span>
 
 
 

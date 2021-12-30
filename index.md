@@ -1,6 +1,7 @@
 <head>
-  <meta name="keywords" content="adversarial, deep reinforcement learning, adversarial attacks, robust, DeepRL, DRL, adversarial policies, robust reinforcement learning, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, deep learning, explainability, interpretability, AI alignment ">
+  <meta name="keywords" content="adversarial, deep reinforcement learning, MDP, adversarial attacks, robust RL, safe RL, DeepRL, DRL, adversarial policies, robust reinforcement learning, AI safety, AI security, machine learning safety, adversarial machine learning, reinforcement learning, ML safety, ML security, adversarial reinforcement learning, robust reinforcement learning, adversarial RL, safe reinforcement learning, RL security, reinforcement learning security explainability, interpretability, AI alignment, machine learning explainability, ML interpretability, ">
 </head>
+
 
 <div align="center">
   Ezgi Korkmaz  <br />
@@ -19,8 +20,10 @@ Reinforcement learning policies based on deep neural networks are vulnerable to 
 [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf)   [[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html)  [[Cite]](ekuaibibtex.html)
 
 
-
-<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, policy, DeepRL, DRL, robust, adversarial policies, explainability, interpretability, AI alignment </span>
+<br />
+<br />
+<br />
+<br />
 
 
 

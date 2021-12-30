@@ -14,7 +14,7 @@ Reinforcement learning policies based on deep neural networks are vulnerable to 
 [[Paper]](https://proceedings.mlr.press/v161/korkmaz21a/korkmaz21a.pdf)   [[PMLR]](https://proceedings.mlr.press/v161/korkmaz21a.html)  [[Cite]](ekuaibibtex.html)
 
 
-<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, DeepRL, DRL, robust </span>
+<span style="color: white;"> Key words: reinforcement learning, deep reinforcement learning, adversarial, adversarial attack, robustness, policy, DeepRL, DRL, robust, adversarial policies </span>
 
 
 

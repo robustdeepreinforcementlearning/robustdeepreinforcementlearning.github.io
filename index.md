@@ -24,7 +24,7 @@ Reinforcement learning policies based on deep neural networks are vulnerable to 
 
 
 
-Versions of this work presented in ICLR and ICML workshops and received Spotlight Presentation from NeurIPS workshop.
+*Versions of this work presented in ICLR and ICML workshops and received Spotlight Presentation from NeurIPS workshop.
 
 
 

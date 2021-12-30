@@ -1,7 +1,7 @@
 <div align="center">
   Ezgi Korkmaz  <br />
   Conference on Uncertainty in Artificial Intelligence (UAI) 2021 <br />
-  Published in Proceedings of Machine Learning Research (PMLR)
+  Published in Proceedings of Machine Learning Research (PMLR) 2021
   </div>
 
 

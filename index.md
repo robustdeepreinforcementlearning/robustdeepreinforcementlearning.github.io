@@ -1,5 +1,5 @@
 <div align="center">
-  Ezgi Korkmaz
+  Ezgi Korkmaz  <br />
   Conference on Uncertainty in Artificial Intelligence (UAI) 2021
   </div>
 
